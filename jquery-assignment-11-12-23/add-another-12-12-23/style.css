@@ -1,0 +1,61 @@
+body {
+  font-family: cursive !important;
+}
+
+h1 {
+  margin: 20px 0px 0px 80px;
+}
+
+.heading {
+  width: 90%;
+  background-color: lightseagreen;
+  margin: 0 auto;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 10px;
+  border: 3px solid;
+}
+
+.main {
+  margin-left: 5%;
+  width: 90%;
+  border-radius: 10px;
+  border: 3px solid;
+  background-color: whitesmoke;
+  padding: 20px;
+}
+
+.main > div {
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+select {
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.left {
+  border: 3px solid;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.right {
+  border: 3px solid;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.d-flex {
+  gap: 200px;
+}
+
+.main {
+  background-image: linear-gradient(#d0bfff, #fff8c9);
+}
+
+.add-another {
+  margin-left: 20px;
+}

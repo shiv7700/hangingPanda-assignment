@@ -1,0 +1,17 @@
+[
+  {
+    "firstname": "manish",
+    "lastname": "pandey",
+    "dob": "1990-01-01"
+  },
+  {
+    "firstname": "yogendra",
+    "lastname": "mishra",
+    "dob": "1985-05-15"
+  },
+  {
+    "firstname": "surayma",
+    "lastname": "sharma",
+    "dob": "1998-08-20"
+  }
+]
